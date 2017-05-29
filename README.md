@@ -1,2 +1,0 @@
-# Nessuno77
-Calculator
